@@ -1,0 +1,3 @@
+name: SlotTester
+main: io.github.Aaron1011.SlotTester.SlotTest
+version: 1.0.0
